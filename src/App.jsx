@@ -1,6 +1,6 @@
 import './index.css'
-import Navbar from './Navbar.js'
-import Entry from './Entry.js'
+import Navbar from './Navbar.jsx'
+import Entry from './Entry.jsx'
 import data from "./data.js"
 
 export default function App() {
