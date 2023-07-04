@@ -1,7 +1,7 @@
 import './index.css'
-import Navbar from './Navbar'
-import Entry from './Entry'
-import data from "./data"
+import Navbar from './Navbar.js'
+import Entry from './Entry.js'
+import data from "./data.js"
 
 export default function App() {
   const entries = data.map(item => {
