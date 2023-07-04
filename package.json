@@ -1,7 +1,6 @@
 {
   "name": "travel-journal",
   "private": false,
-  "homepage": "https://devtir7.github.io/travel-journal",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
